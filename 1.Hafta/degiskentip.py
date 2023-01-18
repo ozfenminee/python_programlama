@@ -1,0 +1,20 @@
+a = 2.5
+b = None
+c = 7
+d = False
+e = 'e'
+f = "minemert"
+g = 54582548548585485
+print("a :", type(a))
+print("b :", type(b))
+print("c :", type(c))
+print("d :", type(d))
+print("e :", type(e))
+print("f :", type(f))
+print("g :", type(g))
+h = [2,3]
+i = {a :"mn", d:"an"}
+j = (7,8,9)
+print("h :", type(h))
+print("i :", type(i))
+print("j :", type(j))
